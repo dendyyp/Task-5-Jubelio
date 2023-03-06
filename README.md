@@ -5,7 +5,7 @@
 
 ### How to run this automation scenarios in local
 1. Clone this repo using this command:
->$ git clone [https://github.com/dendyyp/cucumber-automation-test.git](https://github.com/dendyyp/Task-5-Jubelio.git)
+>$ git clone https://github.com/dendyyp/Task-5-Jubelio.git
 2. Open this repo in your editor
 3. Open terminal in your editor
 4. To run all scenario can using this command:
